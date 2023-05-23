@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(61, 61, 172);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+
+.reset {
+    padding: 20px;
+    border-radius: 20%;
+    cursor: pointer;
+
+}
+
+.p {
+    font-size: 18px;
+    color: white;
+}
+
+.main {
+    margin: 220px 0;
+}
+
+.q {
+    color: red;
+    margin: auto;
+    padding: 20px;
+    font-size: 99px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.pod {
+    margin-bottom: 10px;
+    color: white;
+    font-size: 24px;
+}
+
+.input {
+    margin-bottom: 15px;
+    height: 50px;
+}
+
+.btn {
+    padding: 40px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.pop {
+    color: white;
+}
+
+.span {
+    color: white;
+}
